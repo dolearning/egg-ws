@@ -6984,10 +6984,9 @@ write@1.0.3:
   dependencies:
     mkdirp "^0.5.1"
 
-ws@^7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/ws/-/ws-7.0.0.tgz#79351cbc3f784b3c20d0821baf4b4ff809ffbf51"
-  integrity sha512-cknCal4k0EAOrh1SHHPPWWh4qm93g1IuGGGwBjWkXmCG7LsDtL8w9w+YVfaF+KSVwiHQKDIMsSLBVftKf9d1pg==
+"ws@github:dolearning/ws.git":
+  version "7.1.1"
+  resolved "https://codeload.github.com/dolearning/ws/tar.gz/12811839af68e0a81826518501913b5b6387cb84"
   dependencies:
     async-limiter "^1.0.0"
 
