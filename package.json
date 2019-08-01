@@ -16,7 +16,7 @@
     "co": "^4.6.0",
     "debug": "^4.1.1",
     "koa-compose": "^4.1.0",
-    "ws": "^6.0.0"
+    "ws": "github:dolearning/ws.git"
   },
   "devDependencies": {
     "autod": "^3.0.1",
